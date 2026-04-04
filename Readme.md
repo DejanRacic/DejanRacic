@@ -5,7 +5,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DejanRacic/DejanRacic/main/developer-banner.png" width="600" />
+  <img src="./developer-banner.png" width="700" />
 </div>
 
 ---
