@@ -10,7 +10,11 @@
 
 <div align="left">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DejanRacic/DejanRacic/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DejanRacic/DejanRacic/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DejanRacic/DejanRacic/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/DejanRacic/DejanRacic/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
   <img width="12" />
