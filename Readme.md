@@ -90,9 +90,3 @@ Small progress every day leads to big results.
 
 ---
 
-## 📌 Status
-
-Beginner Developer
-Learning DevSecOps
-Building Projects
-Growing Every Day
