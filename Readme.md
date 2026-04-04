@@ -1,12 +1,13 @@
+<div align="center">
+  <img src="./developer_banner.png" width="400" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Dejan Racic</h1>
 
 <h3 align="center">
 🚀 Beginner Developer | Learning DevSecOps
 </h3>
 
-<div align="center">
-  <img src="./developer_banner.png" width="400" />
-</div>
 
 ---
 
