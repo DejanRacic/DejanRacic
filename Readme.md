@@ -5,7 +5,7 @@
 </h3>
 
 <div align="center">
-  <img src="./assets/developer-banner.png" width="700" />
+  <img src="./developer-banner.png" width="700" />
 </div>
 
 ---
