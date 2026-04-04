@@ -5,7 +5,7 @@
 </h3>
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif](https://github.com/DejanRacic/DejanRacic/blob/main/developer_banner.png" />
 </div>
 
 ---
