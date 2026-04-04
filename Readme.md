@@ -4,7 +4,16 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">💻 Future Developer | Learning DevSecOps
+
+I'm passionate about building applications, solving problems, and learning how to make systems secure.
+
+Currently focused on:
+- Frontend Development
+- JavaScript
+- Git & GitHub
+- DevSecOps fundamentals
+- Secure and scalable systems</p>
 
 ###
 
