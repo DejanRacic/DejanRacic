@@ -4,16 +4,11 @@
 
 ###
 
-<p align="left">💻 Future Developer | Learning DevSecOps
+<p align="left">🚀 I'm currently learning Software Development and DevSecOps.
 
-I'm passionate about building applications, solving problems, and learning how to make systems secure.
+Building projects, improving my coding skills, and learning how to create secure and reliable applications.
 
-Currently focused on:
-- Frontend Development
-- JavaScript
-- Git & GitHub
-- DevSecOps fundamentals
-- Secure and scalable systems</p>
+Step by step — every single day.</p>
 
 ###
 
