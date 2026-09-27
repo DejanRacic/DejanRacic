@@ -40,12 +40,6 @@ Responsive photo gallery with search, image upload, dark mode and an optimized g
 
 **Technologies:** HTML, CSS, JavaScript
 
-### [Quizapp Dark](https://github.com/DejanRacic/Quizapp-Dark)
-
-Interactive quiz application with progress tracking, sound effects and a complete result screen.
-
-**Technologies:** HTML, CSS, JavaScript
-
 ## Tech Stack
 
 <p>
